@@ -1,0 +1,18 @@
+{
+  "name": "university-of-denver/du_news",
+  "type": "drupal-module",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "require": {
+      "drupal/shs": "^3.0"
+  },
+  "repositories": [
+    {
+        "type": "path",
+        "url": "https://ftp.drupal.org/files/projects/shs-3.0.0-alpha3.zip"
+    }
+  ],
+  "extra": {
+      "_README": ""
+  }
+}
