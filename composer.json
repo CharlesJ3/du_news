@@ -9,7 +9,6 @@
       "drupal/paragraphs": "^1.18",
       "drupal/entity_reference_revisions": "^1.12",
       "drupal/link_attributes": "^2.1",
-      "drupal/text": "*",
       "drupal/options": "*",
       "drupal/svg_image": "^3.1",
       "drupal/entity_browser": "^2.11",
@@ -21,7 +20,6 @@
       "drupal/file_browser": "^1.1",
       "drupal/lightning_core": "^6",
       "drupal/lightning_media": "^5",
-      "drupal/media": "*",
       "drupal/views_infinite_scroll": "^2.0"
   },
   "extra": {
