@@ -9,7 +9,6 @@
       "drupal/paragraphs": "^1.18",
       "drupal/entity_reference_revisions": "^1.12",
       "drupal/link_attributes": "^2.1",
-      "drupal/options": "*",
       "drupal/svg_image": "^3.1",
       "drupal/entity_browser": "^2.11",
       "drupal/field_group": "^3.6",
