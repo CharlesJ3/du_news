@@ -1,6 +1,6 @@
 name: 'DU News'
 type: module
-description: 'Custom package for managing cross-site Paragraphs.'
+description: 'Custom package for managing Articles/News.'
 core_version_requirement: ^10
 package: 'Custom'
 dependencies:
@@ -23,3 +23,4 @@ dependencies:
   - drupal:lightning_media
   - drupal:media
   - drupal:views_infinite_scroll
+  - drupal:views_taxonomy_term_name_depth

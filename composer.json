@@ -4,14 +4,9 @@
   "version": "1.0.0",
   "minimum-stability": "dev",
   "require": {
-      "drupal/shs": "^3.0"
+      "drupal/shs": "^3.0",
+      "drupal/views_taxonomy_term_name_depth": "7.2.0"
   },
-  "repositories": [
-    {
-        "type": "path",
-        "url": "https://ftp.drupal.org/files/projects/shs-3.0.0-alpha3.zip"
-    }
-  ],
   "extra": {
       "_README": ""
   }
